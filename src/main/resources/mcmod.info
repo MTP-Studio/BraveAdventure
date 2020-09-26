@@ -1,0 +1,16 @@
+[
+{
+  "modid": "braveadventure",
+  "name": "BraveAdventure",
+  "description": "by MTP",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Frank__Wang"],
+  "credits": "A brave adventure",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

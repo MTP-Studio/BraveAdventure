@@ -1,0 +1,19 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":[
+    " xx",
+    " # ",
+    " # "
+  ],
+  "key":{
+    "x":{
+      "item":"braveadventure:brave_ingot"
+    },
+    "#":{
+      "item":"minecraft:stick"
+    }
+  },
+  "result":{
+    "item":"braveadventure:brave_hoe"
+  }
+}

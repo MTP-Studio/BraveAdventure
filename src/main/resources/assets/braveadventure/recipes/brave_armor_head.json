@@ -1,0 +1,15 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":[
+    "xxx",
+    "x x "
+  ],
+  "key":{
+    "x":{
+      "item":"braveadventure:brave_ingot"
+    }
+  },
+  "result":{
+    "item":"braveadventure:brave_armor_head"
+  }
+}

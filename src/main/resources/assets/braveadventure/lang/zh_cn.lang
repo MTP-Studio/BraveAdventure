@@ -1,0 +1,14 @@
+tile.braveadventure.BraveOre.name=勇者矿
+tile.braveadventure.BraveBlock.name=勇者块
+item.braveadventure.BraveIngot.name=勇者锭
+item.braveadventure.BraveStick.name=勇者棍
+item.braveadventure.BraveShovel.name=勇者锹
+item.braveadventure.BraveHoe.name=勇者锄
+item.braveadventure.BraveAxe.name=勇者斧
+item.braveadventure.BraveSword.name=勇者剑
+item.braveadventure.BravePickaxe.name=勇者镐
+item.braveadventure.BraveArmor.feet.name=勇者靴子
+item.braveadventure.BraveArmor.legs.name=勇者护腿
+item.braveadventure.BraveArmor.chest.name=勇者胸甲
+item.braveadventure.BraveArmor.head.name=勇者头盔
+itemGroup.CreativeTab=勇敢者的冒险
